@@ -1,0 +1,4 @@
+login: name1
+password: 123
+
+Name of users' directory: user1
